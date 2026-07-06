@@ -84,8 +84,10 @@ const DATA = {
   ],
 
   contact: {
-    email: "giyunlee01@gmail.com",
+    email: "gynlee.dev@gmail.com",
     github: "https://github.com/gynlee0904",
     linkedin: "",
+    // TODO: formspree.io에서 발급받은 폼 엔드포인트로 교체하세요.
+    formEndpoint: "https://formspree.io/f/YOUR_FORM_ID",
   },
 };
